@@ -14,3 +14,4 @@ A simple example of how to write in a file
         text_file.close()
         passed_file.close()
         failed_file.close()
+
