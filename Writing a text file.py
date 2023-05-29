@@ -7,7 +7,6 @@ for line in text_file:
         passed_file.write(line)
     else:
         failed_file.write(line)
-
 text_file.close()
 passed_file.close()
 failed_file.close()
